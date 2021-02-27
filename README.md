@@ -3,3 +3,4 @@
 이 repository는 박혜선 저자의 "혼자 공부하는 머신러닝"이라는 도서를 
 바탕으로 제작되었다.
 
+<img src="https://github.com/minecode0606/Python-Machine-Learning-Study/blob/main/SelfStudyMachineLearming/%20images/ML.jpeg">
